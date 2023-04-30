@@ -1,2 +1,2 @@
 # Auction-Status-App
- Showing the STatus of Auction in this App
+ Showing the Status of Auction in this App
