@@ -13,7 +13,7 @@
 var arr = [];
 
 async function getData() {
-    document.getElementById("loader").style.display = "block";
+//     document.getElementById("loader").style.display = "block";
 
     try {
         const response = await fetch("https://gauravgitacc.github.io/postAppData/auctionData.json");
