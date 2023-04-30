@@ -23,7 +23,7 @@ async function getData() {
         if (arr) {
             console.log("Data", arr);
             showData(arr);
-            document.getElementById("loader").style.display = "none";
+//             document.getElementById("loader").style.display = "none";
         }
     } catch (e) {
         console.log("Error", e);
