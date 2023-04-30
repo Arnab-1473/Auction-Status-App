@@ -85,6 +85,3 @@ function showData(myArr) {
 
 }
 
-
-
-getData();
